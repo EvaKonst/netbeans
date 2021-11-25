@@ -1,0 +1,5 @@
+insert into article VALUES ('C:\Users\Articles\Submitted\Article16a.doc', 'Every school in Greece is closed due to COVID-19', '11', 'accepted', 'the government closed every school to stop the spread of the virus', 'school', 'evakn@upatras.gr', '1', '2', null, '0','fountou@upatras.gr');
+insert into article VALUES ('C:\Users\Articles\Submitted\Article15a.doc', 'Greece stops the connection with thw other infected countries', '17', 'accepted', 'no airplane connection between Greece, Italy, UK and Spain', 'connection', 'evakn@upatras.gr', '1', '1',  null, '31', 'peppa@upatras.gr');
+insert into article VALUES ('C:\Users\Articles\Submitted\Article14a.doc', 'new law from the government', '10', 'accepted', 'the government stated a new law that bans large gatherings', 'law', 'evakn@upatras.gr', '1', '1', NULL, '21', 'fountou@upatras.gr');
+insert into article VALUES ('C:\Users\Articles\Submitted\Article13a.doc', 'new medication for corona virus', '5', 'accepted', 'a pharmaceutical company spends millions of dollars on a new medication', 'medication', 'evakn@upatras.gr', '1', '1', NULL, '16', 'peppa@upatras.gr');
+UPDATE article SET page_start = '4' WHERE pages = '12';
