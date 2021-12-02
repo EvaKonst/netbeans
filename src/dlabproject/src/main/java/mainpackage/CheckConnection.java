@@ -9,7 +9,7 @@ import javax.swing.*;
 public class CheckConnection 
 {
 
-    public static String url="jdbc:sqlserver://DESKTOP-S3C9AEB:1433;databaseName=dlab1;user=admin1;password=EvaeisaiGTP*;encrypt=true;trustServerCertificate=true;loginTimeout=30;";
+    public static String url="jdbc:sqlserver://DESKTOP-S3C9AEB:1433;databaseName=dlab1;user=admin1;password=12345*;encrypt=true;trustServerCertificate=true;loginTimeout=30;";
     // Connect to your database.
     // Replace server name, username, and password with your credentials
 
